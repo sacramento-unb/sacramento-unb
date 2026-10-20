@@ -6,6 +6,7 @@ I work across Python, TypeScript, Rust, FastAPI, React, PostgreSQL/PostGIS, Linu
 
 ## Selected work
 
+- [DEM Drainage](https://github.com/sacramento-unb/dem-drainage) — WhiteboxTools pipeline with Hack stream order, GeoParquet output, and a React map studio.
 - [Cor Contritum](https://github.com/sacramento-unb/cor-contritum) — privacy-first, local-first PWA built with React and TypeScript.
 - [OBS Eye Contact](https://github.com/sacramento-unb/obs-eye-contact) — CPU-based neural gaze correction for OBS on Linux.
 - [Editor Inteligente de Vídeo](https://github.com/sacramento-unb/editor-inteligente-video) — non-destructive media pipeline with Rust, FFmpeg, Whisper, and React.
