@@ -1,19 +1,38 @@
 # Vitor Sacramento
 
-Geospatial and data engineer building practical software for spatial data, AI-assisted workflows, and local-first tools.
+**Data Engineer · Geospatial AI · Environmental & Climate Intelligence · Software Engineering**
 
-I work across Python, TypeScript, Rust, FastAPI, React, PostgreSQL/PostGIS, Linux, and data governance. My projects connect reliable data pipelines with interfaces people can actually use.
+Building intelligent systems from complex data.
 
-## Selected work
-
-- [DEM Drainage](https://github.com/sacramento-unb/dem-drainage) — WhiteboxTools pipeline with Hack stream order, GeoParquet output, and a React map studio.
-- [Cor Contritum](https://github.com/sacramento-unb/cor-contritum) — privacy-first, local-first PWA built with React and TypeScript.
-- [OBS Eye Contact](https://github.com/sacramento-unb/obs-eye-contact) — CPU-based neural gaze correction for OBS on Linux.
-- [Editor Inteligente de Vídeo](https://github.com/sacramento-unb/editor-inteligente-video) — non-destructive media pipeline with Rust, FFmpeg, Whisper, and React.
-- [Yeti Voice](https://github.com/sacramento-unb/yeti-voice) — PipeWire audio engine and TUI for the Blue Yeti Nano.
+I work at the intersection of data engineering, geospatial analysis, applied
+artificial intelligence and software systems, with an emphasis on reproducible
+workflows, data quality and responsible disclosure.
 
 ## Focus areas
 
-Geospatial analytics · data quality and governance · spatial pipelines · applied AI · privacy by design · Linux tooling
+- Data engineering, architecture and governance
+- Geospatial systems, remote sensing and environmental intelligence
+- Applied AI, computer vision and time-series workflows
+- APIs, local-first web applications, automation and Linux tooling
 
-Some client and personal projects remain private because they contain operational or personal data.
+## Selected work
+
+- [OBS Eye Contact](https://github.com/sacramento-unb/obs-eye-contact) — experimental CPU gaze-redirection pipeline for OBS and Linux video workflows.
+- [Editor Inteligente de Vídeo](https://github.com/sacramento-unb/editor-inteligente-video) — experimental non-destructive media review and rendering system with Rust, SQLite, FFmpeg and React.
+- [Yeti Voice](https://github.com/sacramento-unb/yeti-voice) — local Linux audio engine and TUI for a Blue Yeti Nano microphone.
+- [Cor Contritum](https://github.com/sacramento-unb/cor-contritum) — privacy-first, local-first PWA with opt-in encrypted browser persistence.
+
+The selected projects are experimental and documented with verified behavior
+separated from hardware, browser and integration checks that remain unverified.
+
+## Portfolio
+
+Explore the evidence-led case studies at
+[sacramento-unb.github.io](https://sacramento-unb.github.io/).
+
+## Contact
+
+- [GitHub](https://github.com/sacramento-unb)
+
+Some client, corporate and personal projects remain private because they contain
+operational, proprietary or personal data.
